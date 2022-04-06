@@ -2,8 +2,8 @@ remote_theme: samarsault/texture
 
 # Update site details
 title: My Developer Journey | DigitalCrafts
-author: GitHub User
-email: your-email@domain.com
+author: Dav1dcardozo
+email: cardozodavid713@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,12 +14,12 @@ texture:
   style: black # yellow, red, black, blue, green, purple
   
   # update your name and title
-  title: Ada Lovelace
+  title: David Cardozo
   tagline: Web Developer
-  date_format: "%b %-d, %Y"
+  date_format: "04-04-22"
 
-  # update social links, remove to hide
+  
   social_links:
     twitter: dgtlcrafts
-    github:  digitalcrafts
-    linkedIn: in/digitalcrafts # format: in/username
+    github:  Dav1idcardozo
+    linkedIn: in/David Cardozo # format: in/username
